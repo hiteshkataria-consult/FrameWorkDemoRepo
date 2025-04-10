@@ -1,0 +1,111 @@
+09:21:16.259 [TestNG-tests-1] INFO  com.hk.automation.test.LoginTest - Browser closed
+09:23:19.907 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Browser got launched
+09:23:23.421 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Navigated to application url
+09:23:23.648 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on my account dropdown
+09:23:24.178 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on Login option
+09:23:24.481 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Email address entered
+09:23:24.617 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Password entered
+09:23:26.079 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on Login Button
+09:23:26.152 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Login is succesful
+09:23:26.153 [TestNG-tests-1] INFO  com.hk.automation.test.LoginTest - Login  test got passed
+09:23:26.354 [TestNG-tests-1] INFO  com.hk.automation.test.LoginTest - Browser closed
+09:23:30.418 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Browser got launched
+09:23:34.123 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Navigated to application url
+09:23:34.459 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on my account dropdown
+09:23:35.257 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on Login option
+09:23:35.878 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Email address entered
+09:23:36.207 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Password entered
+09:23:37.239 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on Login Button
+09:23:47.290 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Login Failed!
+09:23:47.290 [TestNG-tests-1] INFO  com.hk.automation.test.LoginTest - Login  test got passed
+09:23:47.383 [TestNG-tests-1] INFO  com.hk.automation.test.LoginTest - Browser closed
+09:24:47.676 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Browser got launched
+09:24:51.357 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Navigated to application url
+09:24:51.624 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on my account dropdown
+09:24:52.243 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on Login option
+09:24:52.389 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Email address entered
+09:24:52.509 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Password entered
+09:24:52.617 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on Login Button
+09:24:54.023 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Login is succesful
+09:24:54.023 [TestNG-tests-1] INFO  com.hk.automation.test.LoginTest - Login  test got passed
+09:24:54.344 [TestNG-tests-1] INFO  com.hk.automation.test.LoginTest - Browser closed
+09:24:56.356 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Browser got launched
+09:25:07.686 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Navigated to application url
+09:25:07.875 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on my account dropdown
+09:25:08.608 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on Login option
+09:25:08.788 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Email address entered
+09:25:08.910 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Password entered
+09:25:09.804 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on Login Button
+09:25:19.859 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Login Failed!
+09:25:19.859 [TestNG-tests-1] INFO  com.hk.automation.test.LoginTest - Login  test got passed
+09:25:20.044 [TestNG-tests-1] INFO  com.hk.automation.test.LoginTest - Browser closed
+11:38:14.820 [main] DEBUG com.hk.automation.test.LoginTest - Browser got launched
+11:38:17.298 [main] DEBUG com.hk.automation.test.LoginTest - Navigated to application url
+11:38:17.458 [main] DEBUG com.hk.automation.test.LoginTest - Clicked on my account dropdown
+11:38:17.968 [main] DEBUG com.hk.automation.test.LoginTest - Clicked on Login option
+11:38:18.099 [main] DEBUG com.hk.automation.test.LoginTest - Email address entered
+11:38:18.180 [main] DEBUG com.hk.automation.test.LoginTest - Password entered
+11:38:18.252 [main] DEBUG com.hk.automation.test.LoginTest - Clicked on Login Button
+11:38:19.481 [main] DEBUG com.hk.automation.test.LoginTest - Login is succesful
+11:38:19.483 [main] INFO  com.hk.automation.test.LoginTest - Login  test got passed
+11:38:19.662 [main] INFO  com.hk.automation.test.LoginTest - Browser closed
+11:38:21.370 [main] DEBUG com.hk.automation.test.LoginTest - Browser got launched
+11:38:23.839 [main] DEBUG com.hk.automation.test.LoginTest - Navigated to application url
+11:38:23.960 [main] DEBUG com.hk.automation.test.LoginTest - Clicked on my account dropdown
+11:38:24.500 [main] DEBUG com.hk.automation.test.LoginTest - Clicked on Login option
+11:38:24.640 [main] DEBUG com.hk.automation.test.LoginTest - Email address entered
+11:38:24.722 [main] DEBUG com.hk.automation.test.LoginTest - Password entered
+11:38:24.798 [main] DEBUG com.hk.automation.test.LoginTest - Clicked on Login Button
+11:38:34.910 [main] DEBUG com.hk.automation.test.LoginTest - Login Failed!
+11:38:34.910 [main] INFO  com.hk.automation.test.LoginTest - Login  test got passed
+11:38:35.083 [main] INFO  com.hk.automation.test.LoginTest - Browser closed
+11:39:42.049 [main] DEBUG com.hk.automation.test.LoginTest - Browser got launched
+11:39:44.488 [main] DEBUG com.hk.automation.test.LoginTest - Navigated to application url
+11:39:44.666 [main] DEBUG com.hk.automation.test.LoginTest - Clicked on my account dropdown
+11:39:45.206 [main] DEBUG com.hk.automation.test.LoginTest - Clicked on Login option
+11:39:45.353 [main] DEBUG com.hk.automation.test.LoginTest - Email address entered
+11:39:45.435 [main] DEBUG com.hk.automation.test.LoginTest - Password entered
+11:39:45.510 [main] DEBUG com.hk.automation.test.LoginTest - Clicked on Login Button
+11:39:46.772 [main] DEBUG com.hk.automation.test.LoginTest - Login is succesful
+11:39:46.776 [main] INFO  com.hk.automation.test.LoginTest - Login  test got passed
+11:39:46.949 [main] INFO  com.hk.automation.test.LoginTest - Browser closed
+11:39:48.500 [main] DEBUG com.hk.automation.test.LoginTest - Browser got launched
+11:39:50.924 [main] DEBUG com.hk.automation.test.LoginTest - Navigated to application url
+11:39:51.036 [main] DEBUG com.hk.automation.test.LoginTest - Clicked on my account dropdown
+11:39:51.528 [main] DEBUG com.hk.automation.test.LoginTest - Clicked on Login option
+11:39:51.665 [main] DEBUG com.hk.automation.test.LoginTest - Email address entered
+11:39:51.748 [main] DEBUG com.hk.automation.test.LoginTest - Password entered
+11:39:52.518 [main] DEBUG com.hk.automation.test.LoginTest - Clicked on Login Button
+11:40:02.628 [main] DEBUG com.hk.automation.test.LoginTest - Login Failed!
+11:40:02.628 [main] INFO  com.hk.automation.test.LoginTest - Login  test got passed
+11:40:02.781 [main] INFO  com.hk.automation.test.LoginTest - Browser closed
+12:16:55.908 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Browser got launched
+12:16:59.061 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Navigated to application url
+12:16:59.282 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on my account dropdown
+12:16:59.853 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on Login option
+12:17:00.158 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Email address entered
+12:17:00.276 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Password entered
+12:17:01.662 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on Login Button
+12:17:01.724 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Login is succesful
+12:17:01.726 [TestNG-tests-1] INFO  com.hk.automation.test.LoginTest - Login  test got passed
+12:17:01.877 [TestNG-tests-1] INFO  com.hk.automation.test.LoginTest - Browser closed
+12:17:03.674 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Browser got launched
+12:17:06.302 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Navigated to application url
+12:17:06.424 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on my account dropdown
+12:17:06.935 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on Login option
+12:17:07.103 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Email address entered
+12:17:07.196 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Password entered
+12:17:07.285 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on Login Button
+12:17:18.041 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Login Failed!
+12:17:18.041 [TestNG-tests-1] INFO  com.hk.automation.test.LoginTest - Login  test got passed
+12:17:18.192 [TestNG-tests-1] INFO  com.hk.automation.test.LoginTest - Browser closed
+20:36:36.436 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Browser got launched
+20:36:40.265 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Navigated to application url
+20:36:40.531 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on my account dropdown
+20:36:41.591 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on Login option
+20:36:41.881 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Email address entered
+20:36:41.999 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Password entered
+20:36:43.307 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Clicked on Login Button
+20:36:43.356 [TestNG-tests-1] DEBUG com.hk.automation.test.LoginTest - Login is succesful
+20:36:43.360 [TestNG-tests-1] INFO  com.hk.automation.test.LoginTest - Login  test got passed
+20:36:43.552 [TestNG-tests-1] INFO  com.hk.automation.test.LoginTest - Browser closed
