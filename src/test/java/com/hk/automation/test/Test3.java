@@ -15,7 +15,8 @@ public class Test3 extends Base {
 		@Test
 		public void TestThree() throws Exception
 		{
-		System.out.println("TestThree");
+			System.out.println("updated by Ritu");
+			System.out.println("TestThree");
 		driver = initializeDriver();
 		driver.get(prop.getProperty("Url3"));
 		Thread.sleep(2000);
