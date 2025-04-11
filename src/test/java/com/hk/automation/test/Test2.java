@@ -15,8 +15,8 @@ public class Test2 extends Base{
 	@Test
 	public void TestTwo() throws Exception
 	{
+		System.out.println("changes made by Shruti");
 		System.out.println("TestTwo");
-		
 		driver = initializeDriver();
 		driver.get(prop.getProperty("Url2"));
 		Thread.sleep(2000);
